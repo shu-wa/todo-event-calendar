@@ -1,0 +1,22 @@
+{
+  "AppDef_60476142/UI/UIDef_1789453286215/uiDef.json": {
+    "name": "todo追加",
+    "code": "TODO",
+    "executionEnv": ""
+  },
+  "AppDef_60476142/UI/UIDef_1789521907276/uiDef.json": {
+    "name": "カレンダー",
+    "code": "MOBILE_CARENDER",
+    "executionEnv": ""
+  },
+  "AppDef_60476142/UI/UIDef_1789524529207/uiDef.json": {
+    "name": "イベント登録画面",
+    "code": "ADD_event",
+    "executionEnv": ""
+  },
+  "AppDef_60476142/UI/UIDef_1789524682028/uiDef.json": {
+    "name": "イベント更新画面",
+    "code": "UPDATE_event",
+    "executionEnv": ""
+  }
+}

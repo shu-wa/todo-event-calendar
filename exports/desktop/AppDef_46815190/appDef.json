@@ -1,0 +1,194 @@
+{
+  "id": "46815190",
+  "code": "APP_TODO_TEAM_KITA",
+  "name": "TODOイベントカレンダー_TEAM_KITA",
+  "date": "2026-09-16T15:23:03+09:00",
+  "index": "",
+  "time": "",
+  "snapDate": "",
+  "defFolder": "AppDef_46815190/appDef.json",
+  "initialScreen": {
+    "uiId": "1789448113274",
+    "uiCode": "MAIN",
+    "uiName": "イベントカレンダー",
+    "favIcon": ""
+  },
+  "theme": "",
+  "uiList": [],
+  "platform": "desktop",
+  "process": false,
+  "deviceId": 0,
+  "loginScreen": {
+    "authentication": "No",
+    "mfaRequired": "No",
+    "ownerId": "",
+    "isSignup": "",
+    "groupAffiliation": [],
+    "folders": []
+  },
+  "executionEnv": "",
+  "viewportSetting": {
+    "viewportWidth": "device-width",
+    "viewportScale": "1.0"
+  },
+  "language": {
+    "enabledLanguages": [
+      {
+        "language": "en",
+        "preferredFont": "",
+        "timeFormat": "",
+        "dateFormat": "",
+        "numberFormat": ""
+      },
+      {
+        "language": "ja",
+        "preferredFont": "",
+        "timeFormat": "",
+        "dateFormat": "",
+        "numberFormat": ""
+      }
+    ],
+    "allowUserToSelectLang": true,
+    "defaultLanguage": "system_default"
+  },
+  "accesibleGroups": [
+    "Global"
+  ],
+  "authRequiredUIs": [],
+  "processDb": "",
+  "deployMode": "release",
+  "deployedTime": "2026-09-16T15:44:02+09:00",
+  "deployedInitialUi": {
+    "uiId": "",
+    "uiCode": "",
+    "uiName": ""
+  },
+  "favIcon": "",
+  "langContext": {
+    "themesRows": {
+      "Primary": {
+        "ColorProperty": "Primary",
+        "MainMode": "#1976D2",
+        "LightMode": "#42A5F5",
+        "DarkMode": "#1565C0",
+        "ContrastMode": "#FFFFFF",
+        "Light": "T",
+        "Dark": "T",
+        "changed": []
+      },
+      "Secondary": {
+        "ColorProperty": "Secondary",
+        "MainMode": "#9C27B0",
+        "LightMode": "#Ba68C8",
+        "DarkMode": "#7B1FA2",
+        "ContrastMode": "#FFFFFF",
+        "Light": "T",
+        "Dark": "T",
+        "changed": []
+      },
+      "Error": {
+        "ColorProperty": "Error",
+        "MainMode": "#D32F2F",
+        "LightMode": "#EF5350",
+        "DarkMode": "#C62828",
+        "ContrastMode": "#FFFFFF",
+        "Light": "T",
+        "Dark": "T",
+        "changed": []
+      },
+      "Warning": {
+        "ColorProperty": "Warning",
+        "MainMode": "#ED6C02",
+        "LightMode": "#FF9800",
+        "DarkMode": "#E65100",
+        "ContrastMode": "#FFFFFF",
+        "Light": "T",
+        "Dark": "T",
+        "changed": []
+      },
+      "Info": {
+        "ColorProperty": "Info",
+        "MainMode": "#0288D1",
+        "LightMode": "#03A9F4",
+        "DarkMode": "#01579B",
+        "ContrastMode": "#FFFFFF",
+        "Light": "T",
+        "Dark": "T",
+        "changed": []
+      },
+      "Success": {
+        "ColorProperty": "Success",
+        "MainMode": "#2E7D32",
+        "LightMode": "#4CAf50",
+        "DarkMode": "#1B5E20",
+        "ContrastMode": "#FFFFFF",
+        "Light": "T",
+        "Dark": "T",
+        "changed": []
+      }
+    },
+    "typothemeRows": {
+      "PrimaryText": {
+        "TypoProperty": "Primary",
+        "MainMode": "#000000DE",
+        "changed": false
+      },
+      "SecondaryText": {
+        "TypoProperty": "Secondary",
+        "MainMode": "#00000099",
+        "changed": false
+      },
+      "DisabledText": {
+        "TypoProperty": "Disabled",
+        "MainMode": "#00000061",
+        "changed": false
+      }
+    },
+    "bgThemeRows": {
+      "BackgroundDefault": {
+        "BackgroundProperty": "Default",
+        "MainBgMode": "#FFFFFF",
+        "changed": false
+      },
+      "BackgroundPaper": {
+        "BackgroundProperty": "Paper",
+        "MainBgMode": "#FFFFFF",
+        "changed": false
+      },
+      "Divider": {
+        "BackgroundProperty": "Divider",
+        "MainBgMode": "#DDDDDD",
+        "changed": false
+      }
+    },
+    "fontFamily": [
+      "Roboto",
+      "Noto Sans JP",
+      "Arial",
+      "Meiryo",
+      "Hiragino Kaku Gothic ProN",
+      "Hiragino Sans",
+      "YuGothic",
+      "Verdana",
+      "sans-serif"
+    ],
+    "disableFontFamily": false
+  },
+  "progressLoaderDisplay": true,
+  "defaultDb": "",
+  "securityPolicy": {
+    "contentSecurityPolicy": {
+      "enabled": false,
+      "directives": []
+    },
+    "reportingEndpoints": {
+      "enabled": false,
+      "endpoints": []
+    }
+  },
+  "customTag": {
+    "head": "",
+    "body": ""
+  },
+  "deployedVersion": ""
+}

@@ -1,0 +1,17 @@
+{
+  "AppDef_46815190/UI/UIDef_1789371406716/uiDef.json": {
+    "name": "todo登録",
+    "code": "TODO",
+    "executionEnv": ""
+  },
+  "AppDef_46815190/UI/UIDef_1789448113274/uiDef.json": {
+    "name": "イベントカレンダー",
+    "code": "MAIN",
+    "executionEnv": ""
+  },
+  "AppDef_46815190/UI/UIDef_1789541043954/uiDef.json": {
+    "name": "List_MAIN",
+    "code": "List_MAIN",
+    "executionEnv": ""
+  }
+}

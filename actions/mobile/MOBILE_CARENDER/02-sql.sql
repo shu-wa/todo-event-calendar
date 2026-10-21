@@ -1,0 +1,1 @@
+SELECT * FROM  EC.EC_data2;

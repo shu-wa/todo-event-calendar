@@ -1,0 +1,51 @@
+[
+  {
+    "platform": "desktop",
+    "code": "TODO",
+    "name": "todo登録",
+    "definition": "exports/desktop/AppDef_46815190/UI/UIDef_1789371406716/uiDef.json",
+    "actions": 10
+  },
+  {
+    "platform": "desktop",
+    "code": "MAIN",
+    "name": "イベントカレンダー",
+    "definition": "exports/desktop/AppDef_46815190/UI/UIDef_1789448113274/uiDef.json",
+    "actions": 27
+  },
+  {
+    "platform": "desktop",
+    "code": "List_MAIN",
+    "name": "List_MAIN",
+    "definition": "exports/desktop/AppDef_46815190/UI/UIDef_1789541043954/uiDef.json",
+    "actions": 13
+  },
+  {
+    "platform": "mobile",
+    "code": "TODO",
+    "name": "todo追加",
+    "definition": "exports/mobile/AppDef_60476142/UI/UIDef_1789453286215/uiDef.json",
+    "actions": 10
+  },
+  {
+    "platform": "mobile",
+    "code": "MOBILE_CARENDER",
+    "name": "カレンダー",
+    "definition": "exports/mobile/AppDef_60476142/UI/UIDef_1789521907276/uiDef.json",
+    "actions": 18
+  },
+  {
+    "platform": "mobile",
+    "code": "ADD_event",
+    "name": "イベント登録画面",
+    "definition": "exports/mobile/AppDef_60476142/UI/UIDef_1789524529207/uiDef.json",
+    "actions": 5
+  },
+  {
+    "platform": "mobile",
+    "code": "UPDATE_event",
+    "name": "イベント更新画面",
+    "definition": "exports/mobile/AppDef_60476142/UI/UIDef_1789524682028/uiDef.json",
+    "actions": 8
+  }
+]
